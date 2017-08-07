@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LikeHack Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-04 00:22+0600\n"
+"PO-Revision-Date: 2013-02-04 00:22+0600\n"
+"Last-Translator: Alex <radist2s@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/likehack-widget.class.php:12
+#: ../includes/likehack.class.php:41
+#: ../view/options-view.php:3
+msgid "LikeHack"
+msgstr ""
+
+#: ../includes/likehack-widget.class.php:14
+msgid "A LikeHack Widget"
+msgstr ""
+
+#: ../includes/likehack.class.php:68
+msgid "Settings"
+msgstr ""
+
+#: ../includes/likehack.class.php:137
+msgid "We are confused, but we can't show you any links"
+msgstr ""
+
+#: ../includes/likehack.class.php:144
+msgid "Something went wrong. Try again!"
+msgstr ""
+
+#: ../includes/likehack.class.php:201
+msgid "We are confused, but we can't show you any links..."
+msgstr ""
+
+#: ../view/options-view.php:9
+msgid "Welcome to Likehack WP Plugin! Be sure, that you have signed up, connected all accounts you need and got access token at <a href=\"http://likehack.com/\">LikeHack.com</a>"
+msgstr ""
+
+#: ../view/options-view.php:13
+msgid "You are connected now"
+msgstr ""
+
+# Caption for Token input
+#: ../view/options-view.php:24
+msgid "Access token:"
+msgstr ""
+
+#: ../view/options-view.php:25
+msgid "Get token on:<br />Likehack.com&rarr;Settings&rarr;Tools"
+msgstr ""
+
+# API Token input placeholder
+#: ../view/options-view.php:28
+msgid "Paste LikeHack token here"
+msgstr ""
+
+#: ../view/options-view.php:36
+msgid "Reconnect"
+msgstr ""
+
+#: ../view/options-view.php:45
+msgid "Show only:"
+msgstr ""
+
+#: ../view/options-view.php:49
+#: ../view/options-view.php:60
+msgid "All (links you shared + new stories)"
+msgstr ""
+
+#: ../view/options-view.php:50
+msgid "Mine (only links you shared)"
+msgstr ""
+
+#: ../view/options-view.php:50
+msgid "Curated (only top new stories)"
+msgstr ""
+
+#: ../view/options-view.php:70
+msgid "Save Changes"
+msgstr ""
+
+#: ../view/widget-options-view.php:6
+msgid "Headline:"
+msgstr ""
+
+#: ../view/widget-options-view.php:10
+msgid "My curated content"
+msgstr ""
+
+#: ../view/widget-options-view.php:15
+msgid "Links count:"
+msgstr ""
+
+#: ../view/widget-options-view.php:31
+msgid "Show LikeHack icon"
+msgstr ""
+
+#: ../view/widget-options-view.php:37
+msgid "Style:"
+msgstr ""
+
+#: ../view/widget-options-view.php:42
+msgid "Dark"
+msgstr ""
+
+#: ../view/widget-options-view.php:42
+msgid "Light"
+msgstr ""
+
+#: ../view/widget-options-view.php:53
+msgid "Icon Size:"
+msgstr ""
+
+#: ../view/widget-options-view.php:59
+msgid "16x16"
+msgstr ""
+
+#: ../view/widget-options-view.php:60
+msgid "32x32"
+msgstr ""
+
+#: ../view/widget-options-view.php:61
+msgid "60x20"
+msgstr ""
+
+#: ../view/widget-options-view.php:79
+msgid "Show follow links"
+msgstr ""
+
+#: ../view/widget-options-view.php:85
+msgid "Facebook:"
+msgstr ""
+
+#: ../view/widget-options-view.php:93
+msgid "Twitter:"
+msgstr ""
+

@@ -1,0 +1,59 @@
+/* 
+    Document    : LikeHack
+    Created on  : 2013-02-01, 16:13:12
+    Author      : Alex Batalov
+    Description : Purpose of the stylesheet follows.
+*/
+
+.widget_likehack a.likehack-site-link{
+    position: relative;
+    text-decoration: none;
+}
+    .widget_likehack img.likehack-icon {
+        vertical-align: middle;
+        margin-right: 0.35em;
+        background-color: transparent!important;
+    }
+
+    .widget_likehack img.likehack-icon-size_60x20,
+    .widget_likehack img.likehack-icon-size_16{
+        position: absolute;
+        top: 50%;
+    }
+
+    .widget_likehack img.likehack-icon-size_16{
+        margin-top: -8px;
+    }
+
+    .widget_likehack img.likehack-icon-size_60x20{
+        margin-top: -10px;
+    }
+
+    .widget_likehack img.likehack-icon-placeholder.likehack-icon-size_60x20,
+    .widget_likehack img.likehack-icon-placeholder.likehack-icon-size_16{
+        display: inline;
+    }
+
+    .widget_likehack img.likehack-icon-placeholder{
+        display: none;
+        position: static;
+        visibility: hidden;
+        top: auto;
+        margin-top: 0;
+    }
+
+.widget_likehack ul.likehack-links.add-offset-top {
+    margin-top: 0.3em;
+}
+
+.widget_likehack .likehack-follow-link {
+    display: block;
+    margin-top: 0.3em;
+}
+    .widget_likehack .icon-follow {
+        vertical-align: middle;
+        margin-right: 0.3em;
+        background-color: transparent!important;
+				border-radius: 0;
+				box-shadow: none; 
+    }
